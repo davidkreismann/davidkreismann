@@ -10,6 +10,3 @@
   <a href="https://www.linkedin.com/in/david-kreismann/"><img src="https://img.shields.io/badge/LinkedIn-david--kreismann-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://scholar.google.de/citations?user=la1vsskAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
 </p>
-
-### Tech
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,java,ts,react,nextjs,docker,git,githubactions,postgres,latex" alt="Python, PyTorch, scikit-learn, Java, TypeScript, React, Next.js, Docker, Git, GitHub Actions, PostgreSQL, LaTeX" />
