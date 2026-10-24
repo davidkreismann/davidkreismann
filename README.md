@@ -12,6 +12,4 @@
 </p>
 
 ### Tech
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,java,ts,react,nextjs,docker,git,postgres,r" alt="Python, PyTorch, Java, TypeScript, React, Next.js, Docker, Git, PostgreSQL, R" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,java,ts,react,nextjs,docker,git,githubactions,postgres,latex" alt="Python, PyTorch, scikit-learn, Java, TypeScript, React, Next.js, Docker, Git, GitHub Actions, PostgreSQL, LaTeX" />
